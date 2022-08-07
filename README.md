@@ -14,3 +14,6 @@ Thank you for reading ✨
 <a href="http://wa.me/+9809233312921">
     <img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-01912d?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+<a href="https://twitter.com/nargessmk">
+    <img alt="twitter" src="https://img.shields.io/badge/twitter-0384ad?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
