@@ -4,7 +4,7 @@ I’m Frontend developer with more than 2 years experience, i was interested in 
 
 Thank you for reading ✨
 
-### My social medias
+#### My social medias
 <a href="https://www.instagram.com/nargessmk/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23fa204a.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
