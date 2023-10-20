@@ -1,7 +1,7 @@
 Hello Everyone👋
 
-* I’m Frontend developer with 2 years experience 🖥️
-* I’m currently learning React Js ⚡
+* I’m Frontend developer with 3 years experience 🖥️
+* I’m currently Working on React Js ⚡
 
 #### social medias
 <a href="https://www.instagram.com/nargessmk/">
