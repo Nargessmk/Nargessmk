@@ -15,8 +15,9 @@ Hello Everyone👋
 </a>
 
 
-<table><tbody><tr><td valign="top" width="33%">
-
+#### My Skills
+<table><tbody>
+    
 <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://camo.githubusercontent.com/0059f6336ebc9e59d21f380eb9fd024a6b06240c7bfb48415b897ab83996c209/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;"></a>   
 <a href="https://getbootstrap.com/docs/3.4/javascript/" rel="nofollow"><img src="https://camo.githubusercontent.com/fa13b2986e2936c2ec9b80bc1d5411137af974a1e197d2229cad0f255638be81/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667" alt="Bootstrap" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" style="max-width: 100%;"></a>  
  
@@ -26,9 +27,7 @@ Hello Everyone👋
 
 <a href="https://nextjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/839e314be35bbb7fec490435527a307f8d3cd78d3b39835f7510e0ae78e07935/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6578746a732e706e67" alt="NextJS" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nextjs.png" style="max-width: 100%;"></a>  
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/91b30ff3d7d15143c1dbba499a8ad310bd829fbd45f65cacaeea175fac5d85aa/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;"></a>  
-</div>
-</td>
-<td valign="top" width="33%">
+
 <a href="https://www.javascript.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/f85cece6899de7bec4dee626087a385376717cedf457d6af7d93349012447e19/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 100%;"></a>  
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/458c0d3ebe5ab840c6fc3e7f5e9abb5ca9252cf5624d25d21fad3c635a18ecb8/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>  
 <a href="https://www.php.net/" rel="nofollow"><img src="https://camo.githubusercontent.com/364d63181a1b5438c1bfb88abd22d41141416d709cbe31d731a753bec26a270a/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" alt="PHP" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/php-original.svg" style="max-width: 100%;"></a>   
@@ -38,5 +37,4 @@ Hello Everyone👋
 <a href="https://redux.js.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/b35433d2c366ade88837d9c0772e562cae47effd8aac93e59b7e0d0e97377fd4/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656475782d6f726967696e616c2e737667" alt="Redux" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" style="max-width: 100%;"></a>  
 </div>
 
-</div>
-</td></tr></tbody></table>
+</tbody></table>
