@@ -1,6 +1,5 @@
 
 * I’m Frontend developer with 6 years experience 🖥️
-* I’m Working on React Js and next js ⚡
 
 #### social medias
 <a href="https://www.instagram.com/nargessmk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23fa204a.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
